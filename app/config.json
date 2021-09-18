@@ -1,0 +1,12 @@
+{
+    "token": "TOKEN",
+    "prefix": "PREFIX",
+    "botname": "BOT_NAME",
+    "staff": [
+        "STAFF_ID"
+    ],
+    "channels": {
+        "welcome": "WELCOME_CHANNEL_ID",
+        "suggest": "SUGGEST_CHANNEL_ID"
+    }
+}
