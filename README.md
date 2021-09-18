@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/corsnode/servest/"><img src="https://i.tazhys.gg/images/servestbanner.png" alt="Servest"></a>
   <br>
-  Vultrex Manager
+  Servest
   <br>
 </h1>
 
